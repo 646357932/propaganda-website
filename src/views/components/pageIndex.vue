@@ -392,6 +392,9 @@ height:23px; */
   box-shadow: none;
   background: none;
 }
+.el-image {
+  display: inherit;
+}
 @media screen and (max-width: 1000px) {
   .buttons {
     margin-left: 5%;
